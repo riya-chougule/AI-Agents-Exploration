@@ -22,7 +22,7 @@ Built with [LangChain](https://www.langchain.com/), [OpenAI](https://platform.op
 
 Upload your `.docx` file and get instant insights!
 
-![Demo Screenshot](https://via.placeholder.com/800x400?text=Demo+Screenshot)
+![Demo Screenshot]([https://via.placeholder.com/800x400?text=Demo+Screenshot)](https://github.com/riya-chougule/AI-Agents-Exploration/blob/22008a9be38fa0da8178637b64cf27334d3e8dfc/Screenshot%202025-08-01%20at%2010.39.33%20PM.png)
 
 ---
 
