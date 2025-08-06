@@ -20,7 +20,6 @@ Built with [LangChain](https://www.langchain.com/), [OpenAI](https://platform.op
 
 ## 🚀 Demo
 
-Upload your `.docx` file and get instant insights!
 
 <img width="1409" alt="Screenshot 2025-08-01 at 10 39 33 PM" src="Screenshot 2025-08-01 at 10.39.33 PM.png">
 
